@@ -14,6 +14,7 @@ let send_amount = 20000
 //  The resulting transaction ID is needed to be supplied through the Assignment on Coursera
 
 /*
+Verify which of the following addresses has money use that address as sender and the other address as receiver
 {
   pk: 'adb27adb845cf776e49ba7f09e58cf53182fcdfd5c3c1ac919340117b41e1a7b',
   address: 'yTYZjnTuepHbVAcoWq4g7f5teXru4KSJMa'
