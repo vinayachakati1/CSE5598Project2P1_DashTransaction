@@ -3,7 +3,7 @@ const got = require('got');
 var sender = 'yTYZjnTuepHbVAcoWq4g7f5teXru4KSJMa'
 var receiver = 'yNpEzKCvS2Vn3WYhXeG11it5wEWMButDvq'
 var senderPrivatekey = 'adb27adb845cf776e49ba7f09e58cf53182fcdfd5c3c1ac919340117b41e1a7b'
-let token = '8PGdgeEbzxm7SvMWdM4MBIJU5lvnL2w7'
+let token = //Use the authentication obtained on registering with chain rider.
 let url = `https://api.chainrider.io/v1/dash/testnet/addr/${sender}/utxo?token=${token}`
 ///url1=https://api.chainrider.io/v1/dash/testnet/addr/yTYZjnTuepHbVAcoWq4g7f5teXru4KSJMa/utxo?token=8PGdgeEbzxm7SvMWdM4MBIJU5lvnL2w7
 //url2=https://api.chainrider.io/v1/dash/testnet/addr/yNpEzKCvS2Vn3WYhXeG11it5wEWMButDvq/utxo?token=8PGdgeEbzxm7SvMWdM4MBIJU5lvnL2w7
