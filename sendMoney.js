@@ -7,7 +7,7 @@ let token = '8PGdgeEbzxm7SvMWdM4MBIJU5lvnL2w7'
 let url = `https://api.chainrider.io/v1/dash/testnet/addr/${sender}/utxo?token=${token}`
 ///url1=https://api.chainrider.io/v1/dash/testnet/addr/yTYZjnTuepHbVAcoWq4g7f5teXru4KSJMa/utxo?token=8PGdgeEbzxm7SvMWdM4MBIJU5lvnL2w7
 //url2=https://api.chainrider.io/v1/dash/testnet/addr/yNpEzKCvS2Vn3WYhXeG11it5wEWMButDvq/utxo?token=8PGdgeEbzxm7SvMWdM4MBIJU5lvnL2w7
-let send_amount = 20000
+let send_amount = 1000
 //  GRADED FUNCTION
 //  TASK-1: Write a function that sends {send_amount} of dash from {sender} to {receiver}.
 //  Register on ChainRider to get a ChainRider token (instructions provided) and input its value as {token}
